@@ -1,0 +1,2 @@
+ErrorDocument 404 http://localhost/Secure/custom_404.php 
+
